@@ -1,16 +1,35 @@
-Criterio: importanza
+Possibili criteri:
+  Importanza
+  Alfabetico(?)
+  Utilità all'utente (QoL)
+
+Criterio: importanza (quanto serve a far funzionare l'applicazione?)
+
 
 Accesso (Creator e visualizzatore)
 Pubblicare video (Creator)
-Pubblicare valutazioni da 0 a 5 stelle (Visualizzatore)
+Visualizzare video (accesso non necessario) (Visualizzatore)
+Pubblicare valutazioni da 0 a 5 stelle (accesso necessario) (Visualizzatore)
 Pubblicare recensioni (Visualizzatore)
-Visualizzare video (Visualizzatore)
 Visualizzare contenuti di autori specifici (Visualizzatore)
 Ordinare per visualizzazioni/punteggio(sia negativo che positivo)/data (Creator e visualizzatore)
 Cercare video (Creator e visualizzatore)
+Gestione account (descrizione, immagine profilo) (Visualizzatore e Creator)
+Suddivisione video per categorie (argomento, genere, parole chiave...) (Creator)
+Creazione raccolte (pubbliche e private) di video (Visualizzatore e Creator)
 Pubblicità (Creator e visualizzatore)
 Pubblicizzare i propri contenuti (Creator)
 Abbonamento al sito per non avere pubblicità/avere funzionalità extra (Creator e visualizzatore)
 Abbonamento personale ai creator (Visualizzatore) 
 Visualizzazione "Vetrina" di post recenti/di tendenza (Visualizzatore)
-Dati video (es. da dove si guarda, quando si guarda(?) quanto tempo la gente guarda, dove smette di guardaree, momenti più visto, eventuali soldi guadagnati da pubblicità/abbonamenti, numero iscritti ottenuti da video/giorno/settimana/mese/anno/sempre) (Creator)
+Dati video (es. da dove si guarda, quando si guarda(?) quanto tempo la gente guarda, dove smette di guardare, 
+  momenti più visto, eventuali soldi guadagnati da pubblicità/abbonamenti, numero iscritti ottenuti da 
+  video/giorno/settimana/mese/anno/sempre) (Creator)
+Aggiungere sottotitoli (Creator)
+Editor video incluso (Creator)
+Donazioni (a creator o sito) (Visualizzatore e Creator)
+
+
+
+
+
