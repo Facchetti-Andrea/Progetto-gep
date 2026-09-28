@@ -1,33 +1,46 @@
-Possibili criteri:
-  Importanza
-  Alfabetico(?)
-  Utilità all'utente (QoL)
-
-Criterio: importanza (quanto serve a far funzionare l'applicazione?)
-
-
-Accesso (Creator e visualizzatore)
-Pubblicare video (Creator)
-Visualizzare video (accesso non necessario) (Visualizzatore)
-Pubblicare valutazioni da 0 a 5 stelle (accesso necessario) (Visualizzatore)
-Pubblicare recensioni (Visualizzatore)
-Visualizzare contenuti di autori specifici (Visualizzatore)
-Ordinare per visualizzazioni/punteggio(sia negativo che positivo)/data (Creator e visualizzatore)
-Cercare video (Creator e visualizzatore)
-Gestione account (descrizione, immagine profilo) (Visualizzatore e Creator)
-Suddivisione video per categorie (argomento, genere, parole chiave...) (Creator)
-Creazione raccolte (pubbliche e private) di video (Visualizzatore e Creator)
-Pubblicità (Creator e visualizzatore)
-Pubblicizzare i propri contenuti (Creator)
-Abbonamento al sito per non avere pubblicità/avere funzionalità extra (Creator e visualizzatore)
-Abbonamento personale ai creator (Visualizzatore) 
-Visualizzazione "Vetrina" di post recenti/di tendenza (Visualizzatore)
+Requisiti Funzionali
+In quanto *NUOVO UTENTE*, Voglio *FARE L'ACCESSO* per *RICORDARE 
+Pubblicare video
+Visualizzare video
+Pubblicare valutazioni 
+Pubblicare recensioni 
+Gestione account
+Pubblicità 
+Pubblicizzare i propri contenuti
+Abbonamento al sito per non avere pubblicità/avere funzionalità extra
+Donazioni (a creator o sito)
+Visualizzare contenuti di autori specifici
+Ordinare per visualizzazioni/punteggio(sia negativo che positivo)/data 
+Cercare video
+Creazione raccolte (pubbliche e private) di video
+Abbonamento personale ai creator
 Dati video (es. da dove si guarda, quando si guarda(?) quanto tempo la gente guarda, dove smette di guardare, 
   momenti più visto, eventuali soldi guadagnati da pubblicità/abbonamenti, numero iscritti ottenuti da 
-  video/giorno/settimana/mese/anno/sempre) (Creator)
-Aggiungere sottotitoli (Creator)
-Editor video incluso (Creator)
-Donazioni (a creator o sito) (Visualizzatore e Creator)
+  video/giorno/settimana/mese/anno/sempre)
+Aggiungere sottotitoli
+
+
+
+
+Requisiti Non Funzionali
+
+Suddivisione video per categorie (argomento, genere, parole chiave...) 
+Visualizzazione "Vetrina" di post recenti/di tendenza
+Valutazioni da 0 a 5 stelle
+Funzionare anche con molti utenti contemporanei
+Usabilità
+Accessibilità
+Compatibile su più browser
+
+
+
+Requisiti Di Dominio
+Rispetto GDPR
+Protezione dati individuali
+Gestione Copyright
+Diritto Cancellazione Dati Personali
+
+
 
 
 
