@@ -25,14 +25,13 @@ Utente con video, Aggiungere sottotitoli, far capire meglio quello che viene det
 
 Requisiti Non Funzionali
 
-Suddivisione video per categorie (argomento, genere, parole chiave...), per trovare video simili
-Visualizzazione "Vetrina" di post recenti/di tendenza, per far scoprire nuovi video
-Valutazioni da 0 a 5 stelle, per vedere se un contento è bello e quanto è bello
-Funzionare anche con molti utenti contemporanei, per avere più utenti
-Usabilità, per avere più utenti
-Accessibilità, per avere più utenti
-Compatibile su più browser, per avere più utenti
-
+Suddivisione video per categorie (argomento, genere, parole chiave...)
+Visualizzazione "Vetrina" di post recenti/di tendenza
+Valutazioni da 0 a 5 stelle
+Funzionare anche con molti utenti contemporanei
+Usabilità
+Accessibilità
+Compatibile su più browser
 
 
 Requisiti Di Dominio
@@ -44,17 +43,11 @@ Diritto Cancellazione Dati Personali
 
 
 
-
-
-
-
-
 SWOT (Strenghts, Weaknesses, Opportunities, Threats)
 S:
 Grande audience POTENZIALE
 Facile da usare
 varietà
-
 
 W:
 Competizione
@@ -63,19 +56,12 @@ Difficile moderare
 Copyright
 Serve internet
 
-
 O:
 Crescita costante possibile audience
 Poter far editare dentro il sito
-
-
 
 T:
 Competizione
 Possibili regole del governo
 Denunce per copyright
 Cambio di interessi
-
-
-
-
