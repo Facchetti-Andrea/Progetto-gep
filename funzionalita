@@ -1,36 +1,37 @@
+In quanto X, voglio Y, per Z
+
 Requisiti Funzionali
-In quanto *NUOVO UTENTE*, Voglio *FARE L'ACCESSO* per *RICORDARE 
-Pubblicare video
-Visualizzare video
-Pubblicare valutazioni 
-Pubblicare recensioni 
-Gestione account
-Pubblicità 
-Pubblicizzare i propri contenuti
-Abbonamento al sito per non avere pubblicità/avere funzionalità extra
-Donazioni (a creator o sito)
-Visualizzare contenuti di autori specifici
-Ordinare per visualizzazioni/punteggio(sia negativo che positivo)/data 
-Cercare video
-Creazione raccolte (pubbliche e private) di video
-Abbonamento personale ai creator
-Dati video (es. da dove si guarda, quando si guarda(?) quanto tempo la gente guarda, dove smette di guardare, 
+Nuovo utente, fare l'accesso, memorizzare la cronologia/poter recensire video
+Utente registrato ,Pubblicare video, 
+Utente (anche non registrato), Visualizzare video
+Utente registrato, Pubblicare valutazioni 
+Utente registrato, Pubblicare recensioni 
+Utente registrato, Gestione account, cambiare nome utente/password/immagine ecc.
+Utente con video, Pubblicizzare i propri contenuti, farmi trovare
+Utente registrato, Abbonamento al sito, Non avere pubblicità/avere funzionalità extra
+Utente registrato, Donazioni (a creator o sito), supportare sito o creator
+Utente, Visualizzare contenuti di autori specifici, guardare cose secondo i miei interessi
+Utente, Ordinare per visualizzazioni/punteggio(sia negativo che positivo)/data, poter trovare cose nuove/vecchie/belle/brutte
+Utente, Cercare video, Trovare cose specifiche
+Utente registrato, Creazione raccolte (pubbliche e private) di video, raggruppare video simili/della stessa serie
+Utente registrato, Abbonamento personale ai creator, Supportare mensilmente un creator
+Utente con video, Vedere Dati video (es. da dove si guarda, quando si guarda(?) quanto tempo la gente guarda, dove smette di guardare, 
   momenti più visto, eventuali soldi guadagnati da pubblicità/abbonamenti, numero iscritti ottenuti da 
-  video/giorno/settimana/mese/anno/sempre)
-Aggiungere sottotitoli
+  video/giorno/settimana/mese/anno/sempre), Capire meglio la mia audience
+Utente con video, Aggiungere sottotitoli, far capire meglio quello che viene detto nel video/aggiungere traduzioni
 
 
 
 
 Requisiti Non Funzionali
 
-Suddivisione video per categorie (argomento, genere, parole chiave...) 
-Visualizzazione "Vetrina" di post recenti/di tendenza
-Valutazioni da 0 a 5 stelle
-Funzionare anche con molti utenti contemporanei
-Usabilità
-Accessibilità
-Compatibile su più browser
+Suddivisione video per categorie (argomento, genere, parole chiave...), per trovare video simili
+Visualizzazione "Vetrina" di post recenti/di tendenza, per far scoprire nuovi video
+Valutazioni da 0 a 5 stelle, per vedere se un contento è bello e quanto è bello
+Funzionare anche con molti utenti contemporanei, per avere più utenti
+Usabilità, per avere più utenti
+Accessibilità, per avere più utenti
+Compatibile su più browser, per avere più utenti
 
 
 
@@ -42,6 +43,38 @@ Diritto Cancellazione Dati Personali
 
 
 
+
+
+
+
+
+
+SWOT (Strenghts, Weaknesses, Opportunities, Threats)
+S:
+Grande audience POTENZIALE
+Facile da usare
+varietà
+
+
+W:
+Competizione
+Costo salvataggio video su server
+Difficile moderare
+Copyright
+Serve internet
+
+
+O:
+Crescita costante possibile audience
+Poter far editare dentro il sito
+
+
+
+T:
+Competizione
+Possibili regole del governo
+Denunce per copyright
+Cambio di interessi
 
 
 
