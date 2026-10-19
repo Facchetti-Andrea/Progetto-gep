@@ -70,6 +70,26 @@ Possibili regole del governo<br>
 Denunce per copyright<br>
 Cambio di interessi<br>
 <br>
-![caso](http://yuml.me/preview/76ef52f0)
 
 
+
+
+[Utente non registrato] - (vedere video), [Utente registrato] - (vedere video), [Utente non registrato] - (fare l'iscrizione), (fare l'iscrizione)<(Accedere con Google), [Utente registrato] - (Pubblicare recensioni), [Utente registrato] - (Pubblicare valutazioni), [Utente registrato] - (cambiare nome utente e immagine profilo), [Creator]^[Utente registrato], [Creator]-(Pubblicizzarsi), [Utente registrato] - (Abbonarsi), [Utente registrato] - (Fare donazioni), [Utente registrato] - (Cercare contenuti), [Utente non registrato] - (Cercare contenuti), [Utente registrato]-(Creare raccolte), [Utente registrato]-(Visualizzazione contenuti per argomento autore eccetera), [Utente non registrato]-(Visualizzazione contenuti per argomento autore eccetera), (Visualizzazione contenuti per argomento autore eccetera)>(ricerca), [Utente non registrato]-(Ricerca), [Utente registrato]-(Ricerca), [Creator] - (Vedere dati video), [Creator] - (Aggiungere sottotitoli)
+(Fare l'iscrizione) > (Inserire Password)
+(Fare l'iscrizione) > (Inserire nome utente)
+(Inserire Password) > (Verificare che la password sia valida)
+(Fare l'accesso) < (Fare l'iscrizione)
+(Creare un nuovo account) > (Fare l'iscrizione)
+[Utente non registrato] - (Fare l'accesso)
+[Utente non registrato]-(Fare l'iscrizione)
+(Fare l'accesso)>(Controllare che la password sia valida)
+(Fare l'accesso)>(Controllare che la password sia corretta)
+(Fare l'accesso)>(Controllare che l'username sia corretto)
+(Pubblicizzarsi)>(Fornire dettagli di pagamento)
+(Abbonarsi) >(Fornire dettagli di pagamento)
+(Fare donazioni) >(Fornire dettagli di pagamento)
+[Utente non registrato] - (Creare un nuovo account)
+(Cercare contenuti) > (Ricerca)
+(Fornire dettagli di pagamento) > (Verificare dati di pagamento)
+[Banca] - (Autorizzare pagamento)
+(Autorizzare pagamento)>(Verificare dati pagamento)
